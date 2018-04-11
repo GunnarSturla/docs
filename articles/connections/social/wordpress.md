@@ -18,7 +18,7 @@ Go to the [WordPress Developer Portal](http://developer.wordpress.com/), and log
 
 ![](/media/articles/connections/social/wordpress/wordpress-dev-portal.png)
 
-## 2. Provide Your Auth0 Client Information.
+## 2. Provide Your Auth0 Application Information.
 
 If you have not already registered your application with Wordpress, click **Create New Application**:
 
@@ -40,7 +40,7 @@ Complete all the fields on the **Create an Application** screen.
 
 **Verification Question**- to confirm you are an actual user performing the request;
 
-**Type**- select **Web** as the client type;
+**Type**- select **Web** as the application type;
 
 After completing the fields, click on the **Create** button.
 
@@ -64,7 +64,7 @@ This will bring up the WordPress connection settings. Copy the **Client ID** and
 
 Click **SAVE**. Then click the **Clients** tab and select the applications you wish to enable this connection.
 
-![Enable clients](/media/articles/connections/social/wordpress/enable-clients.png)
+![Enable applications](/media/articles/connections/social/wordpress/enable-clients.png)
 
 Click **SAVE** when finished.
 
